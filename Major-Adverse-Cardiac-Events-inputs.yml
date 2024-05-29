@@ -1,0 +1,111 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-infarct---primary.py
+inputModule3:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-aborted---primary.py
+inputModule4:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-myocard---primary.py
+inputModule5:
+  class: File
+  path: python/subendocardial-major-adverse-cardiac-events-mace---primary.py
+inputModule6:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-cereb---primary.py
+inputModule7:
+  class: File
+  path: python/coronary-major-adverse-cardiac-events-mace---primary.py
+inputModule8:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-lacunar---primary.py
+inputModule9:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-precerebr---primary.py
+inputModule10:
+  class: File
+  path: python/lateral-major-adverse-cardiac-events-mace---primary.py
+inputModule11:
+  class: File
+  path: python/other-major-adverse-cardiac-events-mace---primary.py
+inputModule12:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-brainstem---primary.py
+inputModule13:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-occlus---primary.py
+inputModule14:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-asystole---primary.py
+inputModule15:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-unspecif---primary.py
+inputModule16:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-basal---primary.py
+inputModule17:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-steno---primary.py
+inputModule18:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-capsule---primary.py
+inputModule19:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-hemisphere---primary.py
+inputModule20:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-communicating---primary.py
+inputModule21:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-haemorrhage---primary.py
+inputModule22:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-sided---primary.py
+inputModule23:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-elevation---primary.py
+inputModule24:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-muscle---primary.py
+inputModule25:
+  class: File
+  path: python/intracranial-major-adverse-cardiac-events-mace---primary.py
+inputModule26:
+  class: File
+  path: python/subarachnoid-major-adverse-cardiac-events-mace---primary.py
+inputModule27:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-embolism---primary.py
+inputModule28:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-ruptur---primary.py
+inputModule29:
+  class: File
+  path: python/vertebral-major-adverse-cardiac-events-mace---primary.py
+inputModule30:
+  class: File
+  path: python/right-major-adverse-cardiac-events-mace---primary.py
+inputModule31:
+  class: File
+  path: python/septal-major-adverse-cardiac-events-mace---primary.py
+inputModule32:
+  class: File
+  path: python/ischaemic-major-adverse-cardiac-events-mace---primary.py
+inputModule33:
+  class: File
+  path: python/nontraumatic-major-adverse-cardiac-events-mace---primary.py
+inputModule34:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-infarctn---primary.py
+inputModule35:
+  class: File
+  path: python/major-adverse-cardiac-events-mace-posterior---primary.py
+inputModule36:
+  class: File
+  path: python/adverse---primary.py
+inputModule37:
+  class: File
+  path: python/output-cases.py
